@@ -1921,11 +1921,17 @@ input, select, textarea {
 
 		.box.style2 .image {
 			position: relative;
-			left: 2em;
-			top: 2em;
-			margin: -4em 0 4em -4em;
 			width: auto;
-			padding: 55px;
+			padding: 25px;
+		}
+
+		.box.style2 .image.featured {
+			margin-bottom: 0px !important;
+		}
+
+		.box.style2 .image i {
+			font-size: 57px;
+			padding: 25px;
 		}
 
 /* Icons */
