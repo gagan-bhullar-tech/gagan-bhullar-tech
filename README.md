@@ -13,10 +13,9 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * 🤝  I'm open to collaborating on Projects
 
 ### Published NPM Packages
-* fuse-files https://www.npmjs.com/package/fuse-files
+* fuse-files (https://www.npmjs.com/package/fuse-files)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -55,8 +54,24 @@ I am a full-stack developer with a curiosity to learn new technologies.
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
+### Published Articles
+* Class based decorators in Python (https://medium.com/@g.deepsingh1/class-decorators-in-python-901444363849)
+* CLI commands you should know (https://medium.com/@g.deepsingh1/cli-commands-you-should-know-982aa6fb11a4)
+* How to solve CORS errors in Node.js (https://medium.com/@g.deepsingh1/use-cors-in-node-js-59ea7cf12931)
+* Node.JS Child Processes (https://medium.com/@g.deepsingh1/node-js-child-processes-ea764a14a21e)
+* Packing and Unpacking Operators in Python (https://blog.stackademic.com/packing-and-unpacking-operators-in-python-d364c19d8532)
+* Difference between Buffer and Streams in Node.JS (https://blog.stackademic.com/difference-between-buffer-and-streams-in-node-js-3df61531414c)
+* Implement Server-sent events in Node.JS and React— Part 1 (https://medium.com/@g.deepsingh1/implement-server-sent-events-in-node-js-and-react-part-1-2d5fcf0e3dcd)
+* Decorators in Python (https://medium.com/@g.deepsingh1/decorators-in-python-a425e8386dd8)
+* How to parse an email using SendGrid (https://medium.com/@g.deepsingh1/how-to-auto-reply-to-an-email-using-sendgrid-49b650553fd5)
+* Use UseRef with TypeScript (https://medium.com/@g.deepsingh1/use-useref-with-typescript-78ba3debea8f)
+* Understanding App Manifest in Progressive Web Apps (https://medium.com/@g.deepsingh1/understanding-app-manifest-for-progressive-web-apps-d563a516dfca)
+* Earn crypto easily using Theta (https://medium.com/@g.deepsingh1/earn-crypto-easily-using-theta-a4ff3444aeb4)
+* Integrating login using amazon in Web App (https://medium.com/@g.deepsingh1/integrating-login-using-amazon-in-web-app-723e8237dc27)
+* Integrating stripe and chargebee in angular 7 (https://medium.com/@g.deepsingh1/integrating-stripe-and-chargebee-in-angular-7-62ec4bcd3ae7)
+* Integrating stripe and chargebee in angular 7 — part 2 (https://medium.com/@g.deepsingh1/integrating-stripe-and-chargebee-in-angular-7-part-2-3d7f9b1fcdf4)
 
-### Socials
+ ### Socials
 
 <p align="left"> <a href="https://www.github.com/gagan-bhullar-tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gagandeep-singh-a6825b4b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@g.deepsingh1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
