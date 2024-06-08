@@ -12,6 +12,9 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * 🧠  I'm learning Machine learning with PyTorch
 * 🤝  I'm open to collaborating on Projects
 
+### Published NPM Packages
+* fuse-files https://www.npmjs.com/package/fuse-files
+
 ### Skills
 
 
