@@ -56,20 +56,20 @@ I am a full-stack developer with a curiosity to learn new technologies.
 
 ### Published Articles
 * <a href="https://medium.com/@g.deepsingh1/class-decorators-in-python-901444363849">Class based decorators in Python</a>
-* CLI commands you should know (https://medium.com/@g.deepsingh1/cli-commands-you-should-know-982aa6fb11a4)
-* How to solve CORS errors in Node.js (https://medium.com/@g.deepsingh1/use-cors-in-node-js-59ea7cf12931)
-* Node.JS Child Processes (https://medium.com/@g.deepsingh1/node-js-child-processes-ea764a14a21e)
-* Packing and Unpacking Operators in Python (https://blog.stackademic.com/packing-and-unpacking-operators-in-python-d364c19d8532)
-* Difference between Buffer and Streams in Node.JS (https://blog.stackademic.com/difference-between-buffer-and-streams-in-node-js-3df61531414c)
-* Implement Server-sent events in Node.JS and React— Part 1 (https://medium.com/@g.deepsingh1/implement-server-sent-events-in-node-js-and-react-part-1-2d5fcf0e3dcd)
-* Decorators in Python (https://medium.com/@g.deepsingh1/decorators-in-python-a425e8386dd8)
-* How to parse an email using SendGrid (https://medium.com/@g.deepsingh1/how-to-auto-reply-to-an-email-using-sendgrid-49b650553fd5)
-* Use UseRef with TypeScript (https://medium.com/@g.deepsingh1/use-useref-with-typescript-78ba3debea8f)
-* Understanding App Manifest in Progressive Web Apps (https://medium.com/@g.deepsingh1/understanding-app-manifest-for-progressive-web-apps-d563a516dfca)
-* Earn crypto easily using Theta (https://medium.com/@g.deepsingh1/earn-crypto-easily-using-theta-a4ff3444aeb4)
-* Integrating login using amazon in Web App (https://medium.com/@g.deepsingh1/integrating-login-using-amazon-in-web-app-723e8237dc27)
-* Integrating stripe and chargebee in angular 7 (https://medium.com/@g.deepsingh1/integrating-stripe-and-chargebee-in-angular-7-62ec4bcd3ae7)
-* Integrating stripe and chargebee in angular 7 — part 2 (https://medium.com/@g.deepsingh1/integrating-stripe-and-chargebee-in-angular-7-part-2-3d7f9b1fcdf4)
+* <a href="https://medium.com/@g.deepsingh1/cli-commands-you-should-know-982aa6fb11a4">CLI commands you should know</a>
+* <a href="https://medium.com/@g.deepsingh1/use-cors-in-node-js-59ea7cf12931">How to solve CORS errors in Node.js</a>
+* <a href="https://medium.com/@g.deepsingh1/node-js-child-processes-ea764a14a21e">Node.JS Child Processes</a>
+* <a href="https://blog.stackademic.com/packing-and-unpacking-operators-in-python-d364c19d8532">Packing and Unpacking Operators in Python</a>
+* <a href="https://blog.stackademic.com/difference-between-buffer-and-streams-in-node-js-3df61531414c">Difference between Buffer and Streams in Node.JS</a>
+* <a href="https://medium.com/@g.deepsingh1/implement-server-sent-events-in-node-js-and-react-part-1-2d5fcf0e3dcd">Implement Server-sent events in Node.JS and React— Part 1</a>
+* <a href="https://medium.com/@g.deepsingh1/decorators-in-python-a425e8386dd8">Decorators in Python</a>
+* <a href="https://medium.com/@g.deepsingh1/how-to-auto-reply-to-an-email-using-sendgrid-49b650553fd5">How to parse an email using SendGrid</a>
+* <a href="https://medium.com/@g.deepsingh1/use-useref-with-typescript-78ba3debea8f">Use UseRef with TypeScript</a>
+* <a href="https://medium.com/@g.deepsingh1/understanding-app-manifest-for-progressive-web-apps-d563a516dfca">Understanding App Manifest in Progressive Web Apps</a>
+* <a href="https://medium.com/@g.deepsingh1/earn-crypto-easily-using-theta-a4ff3444aeb4">Earn crypto easily using Theta</a>
+* <a href="https://medium.com/@g.deepsingh1/integrating-login-using-amazon-in-web-app-723e8237dc27">Integrating login using amazon in Web App</a>
+* <a href="https://medium.com/@g.deepsingh1/integrating-stripe-and-chargebee-in-angular-7-62ec4bcd3ae7">Integrating stripe and chargebee in angular 7</a>
+* <a href="https://medium.com/@g.deepsingh1/integrating-stripe-and-chargebee-in-angular-7-part-2-3d7f9b1fcdf4">Integrating stripe and chargebee in angular 7 — part 2</a>
 
  ### Socials
 
