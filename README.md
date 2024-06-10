@@ -55,6 +55,7 @@ I am a full-stack developer with a curiosity to learn new technologies.
 </p>
 
 ### Published Articles
+* <a href="https://medium.com/@g.deepsingh1/context-managers-in-python-2b3734c240bf">Context Managers in Python</a>
 * <a href="https://medium.com/@g.deepsingh1/class-decorators-in-python-901444363849">Class based decorators in Python</a>
 * <a href="https://medium.com/@g.deepsingh1/cli-commands-you-should-know-982aa6fb11a4">CLI commands you should know</a>
 * <a href="https://medium.com/@g.deepsingh1/use-cors-in-node-js-59ea7cf12931">How to solve CORS errors in Node.js</a>
