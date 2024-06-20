@@ -9,8 +9,9 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * 🌍  I'm based in Edmonton, Canada
 * ✉️  You can contact me at [bhullar.gagan.imp@gmail.com](mailto:bhullar.gagan.imp@gmail.com)
 * 🚀  I'm currently working on [Video based product](http://emovid.com)
-* 🧠  I'm learning Machine learning with PyTorch
+* 🧠  I'm learning Machine learning with TensorFlow and PyTorch
 * 🤝  I'm open to collaborating on Projects
+* I like to contribute to open source projects
 
 ### Published NPM Packages
 * <a href="https://www.npmjs.com/package/fuse-files">fuse-files</a>
