@@ -13,12 +13,15 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * 🤝  I'm open to collaborating on Projects
 * 🤝  I like to contribute to opensource projects
 
+### Portfolio Website
+<a href="https://gagan-bhullar-tech.github.io/gagan-bhullar-tech/#" target="_blank">Portfolio</p>
+
 ### Published NPM Packages
-* <a href="https://www.npmjs.com/package/fuse-files">fuse-files</a>
+* <a href="https://www.npmjs.com/package/fuse-files" target="_blank">fuse-files</a>
 
 ### Projects
-* <a href="https://www.emovid.com">Emovid</a>
-* <a href="https://www.vidinvite.com">VidInvite</a>
+* <a href="https://www.emovid.com" target="_blank">Emovid</a>
+* <a href="https://www.vidinvite.com" target="_blank">VidInvite</a>
 * <p>ML Project - Health insurance Hypothesis testing</p>
 * <p>ML Project - Predicting customer churn in telecommunication company</p>
 * <p>ML Project - Used unsupervised learning to classify cars</p>
