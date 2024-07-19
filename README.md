@@ -16,6 +16,13 @@ I am a full-stack developer with a curiosity to learn new technologies.
 ### Published NPM Packages
 * <a href="https://www.npmjs.com/package/fuse-files">fuse-files</a>
 
+### Projects
+* <a href="https://www.emovid.com">Emovid</a>
+* <a href="https://www.vidinvite.com">VidInvite</a>
+* <p>ML Project - Health insurance Hypothesis testing</p>
+* <p>ML Project - Predicting customer churn in telecommunication company</p>
+* <p>ML Project - Used unsupervised learning to classify cars</p>
+
 ### Skills
 
 <p align="left">
