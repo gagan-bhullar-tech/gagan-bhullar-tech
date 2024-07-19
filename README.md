@@ -22,9 +22,9 @@ I am a full-stack developer with a curiosity to learn new technologies.
 ### Projects
 * <a href="https://www.emovid.com" target="_blank">Emovid</a>
 * <a href="https://www.vidinvite.com" target="_blank">VidInvite</a>
-* <p>ML Project - Health insurance Hypothesis testing</p>
-* <p>ML Project - Predicting customer churn in telecommunication company</p>
-* <p>ML Project - Used unsupervised learning to classify cars</p>
+* <a href="#">ML Project - Health insurance Hypothesis testing</a>
+* <a href="#">ML Project - Predicting customer churn in telecommunication company</a>
+* <a href="#">ML Project - Used unsupervised learning to classify cars</a>
 
 ### Skills
 
