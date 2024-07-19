@@ -2444,3 +2444,27 @@ input, select, textarea {
 	.skill a {
 		padding: 10px;
 	}
+
+.published-articles {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	a {
+		color: white;
+		text-shadow: none;
+		font-weight: bold;
+		padding-top: 10px;
+	}
+}
+
+.more-articles {
+	text-shadow: none;
+	font-weight: bold;
+	padding-top: 26px;
+	font-weight: 1rem;
+	color: #43B3E0;
+}
+
+.no-text-shadow {
+	text-shadow: none;
+}
