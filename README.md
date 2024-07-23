@@ -25,6 +25,7 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * <a href="#">ML Project - Health insurance Hypothesis testing</a>
 * <a href="#">ML Project - Predicting customer churn in telecommunication company</a>
 * <a href="#">ML Project - Used unsupervised learning to classify cars</a>
+* <a href="#">ML Project - Prediction model to identify Pass/Fail yield of a particular process entity.</a>
 
 ### Skills
 
