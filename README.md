@@ -92,7 +92,7 @@ I am a full-stack developer with a curiosity to learn new technologies.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gagan-bhullar-tech"><img src="https://github-readme-stats.vercel.app/api?username=gagan-bhullar-tech&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical&include_all_commits=false&custom_title=Open%20Source%20Contributions&hide=contribs&rank_icon=percentile" alt="gagan-bhullar-tech's GitHub stats" /></a>
+<a href="http://www.github.com/gagan-bhullar-tech"><img src="https://github-readme-stats.vercel.app/api?username=gagan-bhullar-tech&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical&include_all_commits=false&custom_title=Open%20Source%20Contributions&hide=stars,contribs&rank_icon=percentile" alt="gagan-bhullar-tech's GitHub stats" /></a>
 
 <a href="http://www.github.com/gagan-bhullar-tech"><img src="https://github-readme-stats-nine-sable-34.vercel.app/api?username=gagan-bhullar-tech&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=transparent&include_all_commits=true&custom_title=All%20Contributions&hide=contribs,prs,stars,issues&rank_icon=percentile" alt="gagan-bhullar-tech's All Contributions" /></a>
  
