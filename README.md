@@ -91,6 +91,8 @@ I am a full-stack developer with a curiosity to learn new technologies.
 
 ### Badges
 
+[![An image of @gaganbhullartech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaganbhullartech)](https://holopin.io/@gaganbhullartech)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/gagan-bhullar-tech"><img src="https://github-readme-stats.vercel.app/api?username=gagan-bhullar-tech&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical&include_all_commits=false&custom_title=Open%20Source%20Contributions&hide=stars,contribs&show=prs_merged" alt="gagan-bhullar-tech's GitHub stats" /></a>
