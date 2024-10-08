@@ -89,10 +89,6 @@ I am a full-stack developer with a curiosity to learn new technologies.
 
 <p align="left"> <a href="https://www.github.com/gagan-bhullar-tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gagandeep-singh-a6825b4b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@g.deepsingh1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-[![An image of @gaganbhullartech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaganbhullartech)](https://holopin.io/@gaganbhullartech)
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/gagan-bhullar-tech"><img src="https://github-readme-stats.vercel.app/api?username=gagan-bhullar-tech&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical&include_all_commits=false&custom_title=Open%20Source%20Contributions&hide=stars,contribs&show=prs_merged" alt="gagan-bhullar-tech's GitHub stats" /></a>
@@ -100,3 +96,7 @@ I am a full-stack developer with a curiosity to learn new technologies.
 <a href="http://www.github.com/gagan-bhullar-tech"><img src="https://github-readme-stats-nine-sable-34.vercel.app/api?username=gagan-bhullar-tech&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=transparent&include_all_commits=true&custom_title=All%20Contributions&hide=contribs,prs,stars,issues" alt="gagan-bhullar-tech's All Contributions" /></a>
 
 <a href="http://www.github.com/gagan-bhullar-tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-bhullar-tech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=transparent&starting_year=2021" /></a>
+
+### Badges
+
+[![An image of @gaganbhullartech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaganbhullartech)](https://holopin.io/@gaganbhullartech)
