@@ -67,8 +67,7 @@ I am a full-stack developer with a curiosity to learn new technologies.
 </p>
 
 ### Published Articles
-* <a href="https://medium.com/@g.deepsingh1/how-to-change-ruby-version-in-m1-m3-macs-44b13ea3fa8b">How to update Ruby version in M1-M3 macs
-</a>
+* <a href="https://medium.com/@g.deepsingh1/how-to-change-ruby-version-in-m1-m3-macs-44b13ea3fa8b">How to update Ruby version in M1-M3 macs</a>
 * <a href="https://medium.com/@g.deepsingh1/create-multipart-api-request-in-swift-e781b8d69df4">Create Multipart API request in Swift</a>
 * <a href="https://medium.com/@g.deepsingh1/context-managers-in-python-2b3734c240bf">Context Managers in Python</a>
 * <a href="https://medium.com/@g.deepsingh1/class-decorators-in-python-901444363849">Class based decorators in Python</a>
