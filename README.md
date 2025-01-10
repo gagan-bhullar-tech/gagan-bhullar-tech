@@ -18,6 +18,7 @@ I am a full-stack developer with a curiosity to learn new technologies.
 
 ### Published NPM Packages
 * <a href="https://www.npmjs.com/package/fuse-files" target="_blank">fuse-files</a>
+* <a href="https://www.npmjs.com/package/audio-detector" target="_blank">audio-detector</a>
 
 ### Projects
 * <a href="https://www.emovid.com" target="_blank">Emovid</a>
