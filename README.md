@@ -21,9 +21,15 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * <a href="https://www.npmjs.com/package/audio-detector" target="_blank">audio-detector</a>
 
 ### Projects
+
+## Web projects
+
 * <a href="http://usglobalmail.com" target="_blank">US Global mail</a>
 * <a href="https://www.emovid.com" target="_blank">Emovid</a>
 * <a href="https://www.vidinvite.com" target="_blank">VidInvite</a>
+
+## iOS apps
+* FoodPin app
 
 ### Skills
 
