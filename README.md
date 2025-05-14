@@ -14,11 +14,15 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * 🤝  I'm open to collaborating on Projects
 
 ### Portfolio Website
-<a href="https://gagan-bhullar-tech.github.io/gagan-bhullar-tech/#" target="_blank">Portfolio</p>
+<a href="http://gagan-bhullar.com" target="_blank">Portfolio</p>
+
+### Published Github Actions
+* <a href="https://github.com/marketplace/actions/trigger-aws-step-functions" target="_blank">trigger-aws-step-functions</a>
 
 ### Published NPM Packages
 * <a href="https://www.npmjs.com/package/fuse-files" target="_blank">fuse-files</a>
 * <a href="https://www.npmjs.com/package/audio-detector" target="_blank">audio-detector</a>
+* <a href="https://www.npmjs.com/package/photo-capture" target="_blank">photo-capture</a>
 
 ### Projects
 
