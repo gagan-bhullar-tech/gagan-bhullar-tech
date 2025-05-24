@@ -20,9 +20,10 @@ I am a full-stack developer with a curiosity to learn new technologies.
 * <a href="https://github.com/marketplace/actions/trigger-aws-step-functions" target="_blank">trigger-aws-step-functions</a>
 
 ### Published NPM Packages
-* <a href="https://www.npmjs.com/package/fuse-files" target="_blank">fuse-files</a>
-* <a href="https://www.npmjs.com/package/audio-detector" target="_blank">audio-detector</a>
+* <a href="https://www.npmjs.com/package/extract-hrefs" target="_blank">extract-hrefs</a>
 * <a href="https://www.npmjs.com/package/photo-capture" target="_blank">photo-capture</a>
+* <a href="https://www.npmjs.com/package/audio-detector" target="_blank">audio-detector</a>
+* <a href="https://www.npmjs.com/package/fuse-files" target="_blank">fuse-files</a>
 
 ### Projects
 
