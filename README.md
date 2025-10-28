@@ -22,6 +22,7 @@ I am a full-stack developer with a curiosity to learn new technologies.
 ### Published NPM Packages
 * <a href="https://www.npmjs.com/package/react-tripple-toggle" target="_blank">react-tripple-toggle</a>
 * <a href="https://www.npmjs.com/package/expand-short-url" target="_blank">expand-short-url</a>
+* <a href="https://www.npmjs.com/package/detect-camera-lighting" target="_blank">detect-camera-lighting</a>
 * <a href="https://www.npmjs.com/package/extract-hrefs" target="_blank">extract-hrefs</a>
 * <a href="https://www.npmjs.com/package/photo-capture" target="_blank">photo-capture</a>
 * <a href="https://www.npmjs.com/package/audio-detector" target="_blank">audio-detector</a>
